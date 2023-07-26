@@ -3,7 +3,7 @@ package com.ead.authuser.controllers;
 import com.ead.authuser.dtos.UserDto;
 import com.ead.authuser.enums.UserStatus;
 import com.ead.authuser.models.UserModel;
-import com.ead.authuser.models.UserType;
+import com.ead.authuser.enums.UserType;
 import com.ead.authuser.services.UserService;
 import com.fasterxml.jackson.annotation.JsonView;
 import org.springframework.beans.BeanUtils;
